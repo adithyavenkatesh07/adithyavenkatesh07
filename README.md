@@ -1,4 +1,4 @@
-Hi Hackers, I'm Adithya Venkatesh!👋🏻
+# Hi Hackers, I'm Adithya Venkatesh!👋🏻
 🔭 I’m currently working on improving my skills in data cleaning, visualization, and analysis using Python, SQL, and Excel<br>👯 I’m looking to collaborate on data-driven projects, dashboards, and open-source analytics challenges<br>🤝 I’m looking for help with real-world projects that involve big data, business insights, or advanced analytics techniques<br>🌱 I’m currently learning Power BI, Tableau, and advanced SQL queries to strengthen my analytics toolkit<br>💬 Ask me about data visualization, turning raw data into insights, and beginner-friendly analytics workflows<br>⚡ Fun fact I enjoy finding hidden patterns in everyday data—whether it’s my workout stats, spending habits, or even Netflix watch history!
 
 
