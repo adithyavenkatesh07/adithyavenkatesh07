@@ -1,6 +1,5 @@
 # Hi Hackers, I'm Adithya Venkatesh!👋🏻
-🔭 currently exploring ML basics — building models, tuning them, breaking them, fixing them <br> 👯 open to teaming up on small ML projects, experiments, or anything fun with data <br>🤝 down to learn from real-world projects and messy datasets (the messy part is kinda the point) <br> 🌱 learning Tensorflow, model training workflows, and how to make code not fall apart <br>  💬 ask me about data cleaning, model eval, or how to organize a notebook so it actually makes sense later <br>  
-⚡ fun fact: I analyze random life data for fun — workouts, spending, playlists, all of it <br>
+🔭 currently exploring ML basics — building models, tuning them, breaking them, fixing them <br> 👯 open to teaming up on small ML projects, experiments, or anything fun with data <br>🤝 down to learn from real-world projects and messy datasets (the messy part is kinda the point) <br> 🌱 learning Tensorflow, model training workflows, and how to make code not fall apart <br>  💬 ask me about data cleaning, model eval, or how to organize a notebook so it actually makes sense later <br>⚡ fun fact: I analyze random life data for fun — workouts, spending, playlists, all of it <br>
 
 
 ## 🌐 Socials:
