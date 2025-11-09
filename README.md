@@ -41,7 +41,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
-<!-- ML / DL / AI STACK ADDED BELOW -->
+
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
@@ -49,7 +49,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFDB4D.svg?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=black)
-e)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
