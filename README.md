@@ -46,7 +46,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFDB4D.svg?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=black)
 
