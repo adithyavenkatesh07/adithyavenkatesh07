@@ -1,13 +1,13 @@
 # Hi Hackers, I'm Adithya Venkatesh!👋🏻
-📊 passionate about data analysis — digging into datasets, uncovering patterns, and turning raw numbers into insights that actually matter
-🔭 currently exploring ML basics — building models, tuning them, breaking them, fixing them
-👯 open to teaming up on small ML or data-analysis projects, experiments, or anything fun with data
-🤝 down to learn from real-world projects and messy datasets (the messy part is kinda the point)
-🌱 learning TensorFlow, model training workflows, and how to make code not fall apart
-📊 also diving deeper into data analytics — wrangling data, finding patterns, and turning chaos into dashboards
-💬 ask me about data cleaning, model eval, exploratory data analysis, or how to organize a notebook so it actually makes sense later
-📈 low-key obsessed with slicing datasets, spotting trends, and making visuals that don’t look like a crime scene
-⚡ fun fact: I analyze random life data for fun — workouts, spending, playlists, all of it
+📊 passionate about data analysis — digging into datasets, uncovering patterns, and turning raw numbers into insights that actually matter<br>
+🔭 currently exploring ML basics — building models, tuning them, breaking them, fixing them<br>
+👯 open to teaming up on small ML or data-analysis projects, experiments, or anything fun with data<br>
+🤝 down to learn from real-world projects and messy datasets (the messy part is kinda the point)<br>
+🌱 learning TensorFlow, model training workflows, and how to make code not fall apart<br>
+📊 also diving deeper into data analytics — wrangling data, finding patterns, and turning chaos into dashboards<br>
+💬 ask me about data cleaning, model eval, exploratory data analysis, or how to organize a notebook so it actually makes sense later<br>
+📈 low-key obsessed with slicing datasets, spotting trends, and making visuals that don’t look like a crime scene<br>
+⚡ fun fact: I analyze random life data for fun — workouts, spending, playlists, all of it<br>
 
 
 ## 🌐 Socials:
